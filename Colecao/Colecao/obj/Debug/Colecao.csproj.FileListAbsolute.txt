@@ -1,0 +1,7 @@
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\bin\Debug\Colecao.exe.config
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\bin\Debug\Colecao.exe
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\bin\Debug\Colecao.pdb
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\obj\Debug\Colecao.exe
+F:\GitHub\Aprendendo-C-Sharp\Colecao\Colecao\obj\Debug\Colecao.pdb

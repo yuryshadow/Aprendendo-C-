@@ -1,0 +1,7 @@
+F:\Curso\Conversao\Conversao\bin\Debug\Conversao.exe.config
+F:\Curso\Conversao\Conversao\bin\Debug\Conversao.exe
+F:\Curso\Conversao\Conversao\bin\Debug\Conversao.pdb
+F:\Curso\Conversao\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
+F:\Curso\Conversao\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+F:\Curso\Conversao\Conversao\obj\Debug\Conversao.exe
+F:\Curso\Conversao\Conversao\obj\Debug\Conversao.pdb

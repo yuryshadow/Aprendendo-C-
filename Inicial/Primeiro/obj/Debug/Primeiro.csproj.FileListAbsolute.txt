@@ -1,0 +1,9 @@
+F:\Curso\Inicial\Primeiro\bin\Debug\Primeiro.exe.config
+F:\Curso\Inicial\Primeiro\bin\Debug\Primeiro.exe
+F:\Curso\Inicial\Primeiro\bin\Debug\Primeiro.pdb
+F:\Curso\Inicial\Primeiro\obj\Debug\Primeiro.Form1.resources
+F:\Curso\Inicial\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+F:\Curso\Inicial\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+F:\Curso\Inicial\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+F:\Curso\Inicial\Primeiro\obj\Debug\Primeiro.exe
+F:\Curso\Inicial\Primeiro\obj\Debug\Primeiro.pdb

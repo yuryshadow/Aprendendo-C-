@@ -1,0 +1,7 @@
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+F:\GitHub\Aprendendo-C-Sharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb

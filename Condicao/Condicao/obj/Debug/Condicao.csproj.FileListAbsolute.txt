@@ -1,0 +1,7 @@
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\bin\Debug\Condicao.exe.config
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\bin\Debug\Condicao.exe
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\bin\Debug\Condicao.pdb
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\obj\Debug\Condicao.exe
+F:\GitHub\Aprendendo-C-Sharp\Condicao\Condicao\obj\Debug\Condicao.pdb

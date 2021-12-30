@@ -1,2 +1,7 @@
-# Aprendendo-C-
-Repositório com códigos de demonstração e conceitos iniciais de C#
+# C# Estudo
+
+# Em construção
+
+<h2 align="center">
+🚥 C# estudo 🔨 Readme em andamento ⚠️🚧
+</h2>
